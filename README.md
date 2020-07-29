@@ -7,6 +7,9 @@ Broken Auto layout constraints in AVPlayerViewController top info bar
 #### Which area are you seeing an issue with?
 AVKit
 
+#### Environment
+Apple TVOS 13.4.8 (17M61)
+
 #### What type of feedback are you reporting?
 Incorrect/Unexpected Behavior
 
