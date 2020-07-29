@@ -2,7 +2,7 @@
 
 ### Basic Information
 #### Please provide a descriptive title for your feedback:
-Brocken Auto layout constraints in AVPlayerViewController top info bar
+Broken Auto layout constraints in AVPlayerViewController top info bar
 
 #### Which area are you seeing an issue with?
 AVKit
